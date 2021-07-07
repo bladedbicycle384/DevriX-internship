@@ -1,2 +1,2 @@
 # jobs-bg-com-org
-A project for a school internship at Devrix
+A project for a school internship at DevriX
