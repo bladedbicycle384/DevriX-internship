@@ -1,7 +1,7 @@
 # Job board at DevriX
 The task for my school internship at DevriX.
 
-# How to use
+# How to set up
 * Download and install [XAMPP](https://www.apachefriends.org/download.html).
 * Get the files from this repo and put them in the xampp/htdocs folder.
 * Open the location you placed the files and create a new one named database_connect.php.
